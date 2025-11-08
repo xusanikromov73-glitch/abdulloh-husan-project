@@ -19,6 +19,9 @@ function App() {
       <h5>
         lorem hello
       </h5>
+      <h6>
+        Lorem husan
+      </h6>
     </>
   )
 }
