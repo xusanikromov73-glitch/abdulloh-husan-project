@@ -22,6 +22,9 @@ function App() {
       <h6>
         Lorem husan
       </h6>
+      <h3>
+        Lorem, ipsum dolor.
+      </h3>
     </>
   )
 }
