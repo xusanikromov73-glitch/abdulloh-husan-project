@@ -10,6 +10,9 @@ function App() {
       <h2>
         Lorem, ipsum.
       </h2>
+      <h3>
+        Lorem, ipsum.
+      </h3>
     </>
   )
 }
