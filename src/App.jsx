@@ -7,6 +7,9 @@ function App() {
       <h1>
         jamoa
       </h1>
+      <h2>
+        Lorem, ipsum.
+      </h2>
     </>
   )
 }
